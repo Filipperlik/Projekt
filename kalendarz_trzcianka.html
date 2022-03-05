@@ -1,0 +1,75 @@
+<html>
+<head>
+<title> Generator kalendarzy</title>
+<meta charset="UTF-8">
+<style type="text/css">
+.kartka {
+	float: left;
+	width: 100px;
+	height: 150px;
+	border: solid 1px black;
+	margin-left: 2px;
+	margin-top: 2px;
+	background-color: lightgreen;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+}
+.miesiac {
+	font-size: 15px;
+	margin-top: 5px;
+}
+.dzien {
+	font-size: 10px;
+	margin-top: 15px;
+}
+</style>
+
+<script>
+function generacja()
+{
+var tablica=["Poniedziałek","Wtorek","Środa","Czwartek","Piątek","Sobota","Niedziela"];
+var miesiac=document.getElementById("miesiac").value;
+var ile=document.getElementById("ile").value;
+var pierwszy=document.getElementById("pierwszy").value;
+var k;
+//if (pierwszy=="poniedziałek" || pierwszy=="Poniedziałek")  k=0;
+//if (pierwszy=="wtorek" || pierwszy=="Wtorek")  k=1;
+//if (pierwszy=="środa" || pierwszy=="Środa")  k=2;
+//if (pierwszy=="czwartek" || pierwszy=="Czwartek")  k=3;
+//if (pierwszy=="piątek" || pierwszy=="Piątek")  k=4;
+//if (pierwszy=="sobota" || pierwszy=="Sobota")  k=5;
+//if (pierwszy=="niedziela" || pierwszy=="Niedziela")  k=6;
+
+
+var ile;
+var divek="";
+//alert(pierwszy);
+for (i=1;i<=ile;i++)
+	divek=divek+"<div class='kartka'>"+
+	"<div class='miesiac'>"+miesiac+"</div>"
+	
+	+i+
+	"<div class='dzien'>"+tablica[6]+"</div>"+
+	"</div>";
+	document.getElementById("dol").innerHTML=divek;
+
+}
+</script>
+</head>
+<body>
+<div id="ramka">
+	<div id="gora">
+	Miesiąc<input type="text" id="miesiac">
+	Ile dni<input type="text" id="ile">
+	Pierwszy dzień<input type="text" id="pierwszy">
+	<button onclick="generacja()">Generuj</button>
+	
+
+	</div>
+	<div id="dol"></div>
+
+</div>
+</body>
+</html>
