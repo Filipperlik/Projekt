@@ -21,16 +21,38 @@ Kontakt DC (**jedyna opcja**) auxrole#0306
 Zrobiłem Link do DD jumscare który jest poniżej!!! 
 Mam tiktoka na koncie @auxrolee_
 
-**youtube** AuxRole
-*zapraszam* bo czm nie! 
-
 bye...
 
 ----------------------------------------------------
 
+## Changelog
 
+1. *05.03.22* - stworzenie strony
+
+---------------------------------
+
+2. *05.03.22* - edytowanie template'u
+
+---------------------------------
+
+3. *05.03.22* - dodanie "blog"
+
+---------------------------------
+
+4. *05.03.22* - Dodanie DD jumpscare
+
+---------------------------------
+
+## Gry 
+
+Robię gry i remiksy gier na scratch w które można pograć w każdej chwili na stronie [scratch](https://scratch.mit.edu/)
+
+Za niedługo planuję dodać texture pack do Minecraft oraz Stworzyć własną grę.
+
+Wszystko znajdzie się na [discordzie](https://discord.gg/vrFfYEFRrK)
+
+## DD Jumpscare
 
 [Link do jumpscare DD](https://michaumiau.github.io/dd/scary/)
-![Zdjencie](https://user-images.githubusercontent.com/101003362/156888811-22e56780-fcb7-48bc-88ae-f679d874dbf5.png)
 
 
