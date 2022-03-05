@@ -1,13 +1,16 @@
-## Witam na stronie Filipa!
+## O projekcie!
 
-Tutaj będą jakieś posty czy coś.
+Ta strona to mój projekt nad którym pracuję.
 
-Strona stworzona przez: Filip Perlik.
+Jest mi potrzebna głównie do informacji i innych rzeczy.
 
-### O stronie
+Tutaj będą się znajdować różne **rzeczy** potrzebne mi do życia.
 
-Strona jest mi potrzebna do różnych zabaw i innych rzeczy
+### Kontakt
+
+Kontakt DC (**jedyna opcja**) auxrole#0306
 
 
 
-[Link](url) and ![Image](src)
+[Link do jumpscare DD](https://michaumiau.github.io/dd/scary/)
+
