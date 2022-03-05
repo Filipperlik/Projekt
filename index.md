@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Witam na stronie Filipa!
 
-You can use the [editor on GitHub](https://github.com/Filipperlik/strona/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tutaj będą jakieś posty czy coś.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Strona stworzona przez: Filip Perlik.
 
-### Markdown
+### O stronie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Strona jest mi potrzebna do różnych zabaw i innych rzeczy
 
 ```markdown
 Syntax highlighted code block
