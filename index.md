@@ -10,7 +10,9 @@ Tutaj będą się znajdować różne **rzeczy** potrzebne mi do życia.
 
 Kontakt DC (**jedyna opcja**) auxrole#0306
 
-##blog
+## Blog
+
+----------------------------------------------------
 
 **post 1**
 *16:05 05.03.22*
@@ -21,7 +23,10 @@ Mam tiktoka na koncie @auxrolee_
 
 **youtube** AuxRole
 *zapraszam* bo czm nie! 
+
 bye...
+
+----------------------------------------------------
 
 
 
