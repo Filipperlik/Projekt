@@ -18,6 +18,7 @@ Kontakt DC (**jedyna opcja**) auxrole#0306
 **Witam** w pierwszym blogu tutaj. Na razie tu nic nie ma ale w końcu się coś pojawi:D
 Zrobiłem Link do DD jumscare który jest poniżej!!! 
 Mam tiktoka na koncie @auxrolee_
+
 **youtube** AuxRole
 *zapraszam* bo czm nie! 
 bye...
